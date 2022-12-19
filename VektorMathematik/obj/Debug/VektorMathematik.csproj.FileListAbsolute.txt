@@ -6,3 +6,11 @@ C:\Users\jacob\source\repos\VektorMathematik\VektorMathematik\obj\Debug\VektorMa
 C:\Users\jacob\source\repos\VektorMathematik\VektorMathematik\obj\Debug\VektorMathematik.csproj.CoreCompileInputs.cache
 C:\Users\jacob\source\repos\VektorMathematik\VektorMathematik\obj\Debug\VektorMathematik.exe
 C:\Users\jacob\source\repos\VektorMathematik\VektorMathematik\obj\Debug\VektorMathematik.pdb
+C:\Users\yppie\Source\Repos\Jascha245\VektorMathematik\VektorMathematik\obj\Debug\VektorMathematik.csproj.AssemblyReference.cache
+C:\Users\yppie\Source\Repos\Jascha245\VektorMathematik\VektorMathematik\obj\Debug\VektorMathematik.csproj.SuggestedBindingRedirects.cache
+C:\Users\yppie\Source\Repos\Jascha245\VektorMathematik\VektorMathematik\obj\Debug\VektorMathematik.csproj.CoreCompileInputs.cache
+C:\Users\yppie\Source\Repos\Jascha245\VektorMathematik\VektorMathematik\obj\Debug\VektorMathematik.exe
+C:\Users\yppie\Source\Repos\Jascha245\VektorMathematik\VektorMathematik\obj\Debug\VektorMathematik.pdb
+C:\Users\yppie\Source\Repos\Jascha245\VektorMathematik\VektorMathematik\bin\Debug\VektorMathematik.exe.config
+C:\Users\yppie\Source\Repos\Jascha245\VektorMathematik\VektorMathematik\bin\Debug\VektorMathematik.exe
+C:\Users\yppie\Source\Repos\Jascha245\VektorMathematik\VektorMathematik\bin\Debug\VektorMathematik.pdb
