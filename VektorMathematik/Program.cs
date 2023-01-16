@@ -9,7 +9,7 @@ namespace VektorMathematik
     internal class Program
     {
             Vector vector3 = new Vector(3, 0, 0);
-            Vector v = new Vector();
+            Vector2D v = new Vector2D();
             Vector origin = new Vector();
             Vector vector4 = new Vector(3, 3, 3);
             public Vector2D Add(Vector2D vector1, Vector2D vector2)
@@ -22,8 +22,8 @@ namespace VektorMathematik
             Vector2D vector2d1 = new Vector2D(1,1);
             Vector2D vector2d2 = new Vector2D(2,2);
             Vector2D vector2d3 = new Vector2D();
-            vector2d3 Add(vector2d1, vector2d2);
-            Console.WriteLine(vector2d3.X);
+            Vector2D v = vector2d1 + vector2d2;
+            Console.WriteLine(v.X);
             Console.ReadLine();
         }
     }
@@ -99,6 +99,8 @@ namespace VektorMathematik
         }
 
         public static Vector2D operator +(Vector2D vector1, Vector2D vector2) => new Vector2D(vector1.X + vector2.X, vector1.Y + vector2.Y);
+
+
     }
 }
 
